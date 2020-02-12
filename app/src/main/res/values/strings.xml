@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="direccion">Ingrese su dirección</string>
+    <string name="correo">Ingrese su correo electrónico</string>
+    <string name="telefono">Ingrese su telefóno</string>
+    <string name="fecha_nacimiento">Ingrese su fecha de nacimiento</string>
+    <string name="edad">Ingrese su edad</string>
+
+    <string name="lbl_bienvenido">Bienvenido</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_salir">Salir</string>
+</resources>
